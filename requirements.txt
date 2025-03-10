@@ -1,0 +1,13 @@
+torch
+torchvision
+PyMuPDF
+tqdm
+sentence-transformers
+accelerate
+bitsandbytes
+flash-attn
+transformers
+requests
+pandas
+vllm
+spacy
